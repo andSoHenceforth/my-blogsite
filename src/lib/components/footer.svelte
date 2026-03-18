@@ -33,7 +33,7 @@
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
         data-tip="Linkedin"
-        href="https://www.linkedin.com/in/andSoHenceforth/">
+        href="https://www.linkedin.com/in/aallendarmawan/">
         <i class="fab fa-linkedin"></i>
       </a>
       <a
