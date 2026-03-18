@@ -10,7 +10,7 @@ export const site: SiteConfig = {
   author: {
     avatar: '/assets/maskable@512.png',
     name: 'Allen',
-    status: '🦖',
+    status: '☁️',
     bio: 'Mathematics, Computer Science and Physics student at Monash University',
     metadata: [
       {
