@@ -15,7 +15,7 @@ export const site: SiteConfig = {
     metadata: [
       {
         text: 'LinkedIn',
-        link: 'https://www.linkedin.com/in/andSoHenceforth'
+        link: 'https://www.linkedin.com/in/aallendarmawan'
       },
       {
         text: 'GitHub',
