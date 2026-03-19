@@ -10,6 +10,16 @@ export type Project = {
 
 export const projects: Project[] = [
     {
+        id: 'aa',
+        name: 'Avian Annotator',
+        tags: ['SpringBoot','React','Node.js', 'AWS S3', 'Docker'],
+        feature: '',
+        description:
+            'Oversaw the development of an accessible web-based bird image annotation platform allowing ornithology researchers and citizen scientists to collaboratively create high-quality training datasets for AI models',
+        img: '/assets/avianannotator.png',
+        link: 'https://github.com/avian-annotator/FYP'
+    },
+    {
         id: 'maze-solver',
         name: 'Advanced Maze Solver',
         tags: ['HTML','CSS','Javascript', 'Python', 'Flask'],
@@ -17,7 +27,7 @@ export const projects: Project[] = [
         description:
             'A maze solver which can demonstrate several pathfinding algorithms. Built with HTML, CSS, and Javascript for the front-end, and Python with Flask for the back-end. Was inspired to apply these algorithms after having taken an Intro to AI unit.',
         img: '/assets/maze-solver.png',
-        link: 'https://github.com/andSoHenceforth/maze-ai-solver'
+        link: 'https://github.com/andSoHenceforth/Advanced-Maze-Solver'
     },
     {
         id: 'website',
@@ -25,7 +35,7 @@ export const projects: Project[] = [
         tags: ['HTML','CSS','Svelte', 'Typescript', 'Javascript'],
         feature: '',
         description:
-            'My portfolio site was built off a SvelteKit blog site template; check it out here and make your own blogsite!',
+            'My portfolio site was built off a SvelteKit blog site template called Urara!',
         img: 'https://github.com/importantimport/urara/raw/main/urara/hello-world/urara.webp',
         link: 'https://github.com/importantimport/urara'
     },
