@@ -1,9 +1,9 @@
 ---
-title: Dealing with failure
+title: Dealing with failure through "obehag"
 author: Allen
 created: 2026-03-21
-categories: [University, Maths]
-tags: [university, maths]
+categories: [University, Life]
+tags: [university, lifelesssons]
 ---
 
 Some two weeks ago, I was at a retreat by NanoLund, Lund University's centre for nanoscience and also the largest research envirionment in the field of nanoscience in Sweden. It was quite fun staying at a retreat for 2 days listening to various presentations, networking and eating exquisite 2-course meals, all free of charge!
