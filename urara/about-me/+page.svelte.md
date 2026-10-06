@@ -1,11 +1,12 @@
 ---
 title: about me!
 created: 2024-07-07
-updated: 2024-07-07
+updated: 2026-10-06
 flags:
     - unlisted
 ---
+At Monash University, I’ve been exploring the intersections of mathematics, physics and computer science - solving problems both theoretical and practical and occasionally wondering if I’ll ever reach a steady state of free time... I have recently graduated from a Bachelors degree of Science and Computer Science as of July 2026 and am now looking for ways I can benefit the world in some way.
 
-Allen is a passionate penultimate undergraduate student at Monash University undertaking a double degree of Mathematics and Computer Science. He is open to any internships within the field of software development, machine learning/artificial intelligence or cybersecurity to apply his skills to the professional technology industry in hopes of advancing his career.
+I am passionate about continuous learning and committed to using my skills, knowledge, and a multitude of past experiences to positively impact the broader community! Apart from my university studies, I am deeply interested in teaching, literature, travelling abroad, weather forecasting, and clouds (both the type of clouds you can see in the sky and over the internet).
 
-Outside of studies, Allen often partakes in activities of university student teams and clubs as well as in various volunteering experiences. He also has a keen interest in teaching, creative writing and travelling abroad.
+If we have met before, please feel free to connect! I welcome any opportunities to collaborate on something special~
