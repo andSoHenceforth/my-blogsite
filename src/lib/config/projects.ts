@@ -10,6 +10,16 @@ export type Project = {
 
 export const projects: Project[] = [
     {
+        id: 'aats',
+        name: 'All about the Sky',
+        tags: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'HTML', 'Open-Meteo API'],
+        feature: '',
+        description:
+            'Built a weather-driven animated sky with React, TypeScript, and the Canvas 2D API, mapping live Open-Meteo data to procedural clouds, rain, and day/night cycles, with mouse and touch interaction via Pointer Events',
+        img: '/assets/aats.png',
+        link: 'https://github.com/andSoHenceforth/all-about-the-sky'
+    },
+    {
         id: 'tension_resonance',
         name: 'Tension Resonance',
         tags: ['TouchDesigner','Python','C++', 'Arduino'],
