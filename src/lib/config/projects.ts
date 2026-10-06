@@ -10,12 +10,22 @@ export type Project = {
 
 export const projects: Project[] = [
     {
+        id: 'tension_resonance',
+        name: 'Tension Resonance',
+        tags: ['TouchDesigner','Python','C++', 'Arduino'],
+        feature: '',
+        description:
+            'Integrated TouchDesigner modules, an Arduino microcontroller, and scripts in Python and C++ to develop a Spatial Augmented Reality (SAR) environment for people suffering from chronic pain',
+        img: '/assets/eugloh_tr.png',
+        link: 'https://github.com/andSoHenceforth/Tension-Resonance'
+    },
+    {
         id: 'aa',
         name: 'Avian Annotator',
         tags: ['SpringBoot','React','Node.js', 'AWS S3', 'Docker'],
         feature: '',
         description:
-            'Oversaw the development of an accessible web-based bird image annotation platform allowing ornithology researchers and citizen scientists to collaboratively create high-quality training datasets for AI models',
+            'Oversaw the backend development of an accessible web-based bird image annotation platform allowing ornithology researchers and citizen scientists to collaboratively create high-quality training datasets for AI models',
         img: '/assets/avianannotator.png',
         link: 'https://github.com/avian-annotator/FYP'
     },
